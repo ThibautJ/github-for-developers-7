@@ -1,5 +1,5 @@
 ##Thibaut JAUROU
 
-  -CASTRES in France
-  -Raclette
-  -Rugby
+ - ALBI in France
+ - Raclette
+ - Rugby
